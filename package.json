@@ -1,0 +1,22 @@
+{
+  "name": "is-cat",
+  "version": "1.0.0",
+  "description": "checks if a string is equal to cat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thebigmpromax/is-cat-npm.git"
+  },
+  "keywords": [
+    "cat"
+  ],
+  "author": "Thebigmpromax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thebigmpromax/is-cat-npm/issues"
+  },
+  "homepage": "https://github.com/Thebigmpromax/is-cat-npm#readme"
+}
