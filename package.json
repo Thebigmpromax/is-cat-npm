@@ -1,6 +1,6 @@
 {
   "name": "is-cat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "checks if a string is equal to cat",
   "main": "index.js",
   "scripts": {
