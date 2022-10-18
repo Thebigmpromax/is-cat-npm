@@ -1,5 +1,5 @@
 function iscat(string) {
-    return string == 'cat'
+    return string.toLowerCase() == 'cat'
 }
 
 module.exports = iscat
